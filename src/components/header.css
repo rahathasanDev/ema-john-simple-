@@ -1,0 +1,15 @@
+.header {
+  height: 88px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.navbar a{
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 30px;
+}
+.navbar a:hover{
+  color: aqua;}
